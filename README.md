@@ -1,0 +1,2 @@
+# staticTest
+some test repo
